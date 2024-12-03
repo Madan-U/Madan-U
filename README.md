@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hey there! 👋 I’m Madan U, an Associate Database Administrator with expertise in MSSQL, AWS DocumentDB, MongoDB, and MySQL. I specialize in optimizing database performance, ensuring high availability, and delivering secure data solutions.
+Hey there! 👋 I’m Madan U, an Database Administrator with expertise in MSSQL, AWS DocumentDB, MongoDB, and MySQL. I specialize in optimizing database performance, ensuring high availability, and delivering secure data solutions.
 
 ### Skills & Interests:
 
