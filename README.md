@@ -1,28 +1,49 @@
-# Hi, I'm Madan U
+# Madan U | Cloud Database & Reliability Engineer
+### Optimizing Performance, Reliability, and Cost at Scale ☁️🗄️
 
-## About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/madan-u-3bb24627b)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:madanul35@gmail.com)
 
-Hey there! 👋 I’m Madan U, an Database Administrator with expertise in MSSQL, AWS DocumentDB, MongoDB, and MySQL. I specialize in optimizing database performance, ensuring high availability, and delivering secure data solutions.
+---
 
-### Skills & Interests:
+## 👨‍💻 Professional Profile
+I am a **Cloud Database Administrator** specializing in the management of high-frequency production environments. Currently managing **400+ database servers** for financial trading platforms, I bridge the gap between traditional DBA operations and modern **Database Reliability Engineering (DBRE)**.
 
-- **Programming Languages**          : Python, Java, HTML, CSS, JavaScript(basic knowledge)
-- **Frameworks/Libraries**           : Bootstrap, Django, NumPy, JDBC, Hibernate
-- **Databases**                      : MySQL, Microsoft SQL Server, MongoDB, AWS DocumentDB
-- **Developer Tools**                : Git/Github, Eclipse, VS Code, Anaconda
-- **Academic Coursework**            : Python, Operating Systems (Windows, Linux)
-- **Interests**                      : Problem-Solving, Competitive Programming, Open-Source Contributions, Playing Cricket
+My focus is on building self-healing database infrastructure, optimizing cloud spend, and architecting zero-downtime migration strategies.
 
-### Projects:
-- **Municipal Corporation Complaint Management System**: The Municipal Corporation Complaint Management System is a web application that enables citizens to submit and track complaints online, improving efficiency and accessibility in public services. Developed using HTML, CSS, JavaScript, Bootstrap, Java, and MySQL, it streamlines grievance handling and eliminates the need for in-person visits.
+- 📈 **Scale:** Managed 250+ SQL Server, 130+ PostgreSQL, and 35+ MongoDB/DocumentDB clusters.
+- 💰 **Cost Leadership:** Delivered **50% savings** on MongoDB Atlas and **30%+** on AWS DocumentDB through performance engineering.
+- ⚡ **Automation:** Reduced manual DBA toil from weeks to hours via Python and Bash-driven CI/CD pipelines.
 
-- **Esports Tournament Management System** :The Esports Tournament Management System is a web application built with HTML, CSS, JavaScript, Bootstrap, Java, Python, MongoDB, and MSSQL to streamline esports tournaments. It enables user registration, real-time updates, and automated notifications for managing events like Free Fire, PUBG, and BGMI efficiently.
+---
 
-### Connect with Me:
+## 🛠️ Technical Ecosystem
 
-- Email: madanu135@gmail.com
-- LinkedIn: https://www.linkedin.com/in/madan-u-3bb24627b
-- GitHub: https://github.com/Madan-U
+| Category | Technologies |
+| :--- | :--- |
+| **Cloud Databases** | AWS DocumentDB, MongoDB Atlas, Aurora PostgreSQL, Azure SQL |
+| **Relational & NoSQL** | SQL Server (Always On, Log Shipping), PostgreSQL (Patroni), MongoDB |
+| **Infrastructure & Automation** | Python, Bash, PowerShell, T-SQL, Git/GitHub, HashiCorp Vault |
+| **Observability** | Percona PMM, Grafana, AWS CloudWatch, Performance Insights, SolarWinds |
+| **Migration & Reliability** | AWS DMS, HammerDB (Benchmarking), TDE, SSL Management, DR Drills |
 
-### Feedback Welcome :
-- I'm still learning and growing as a developer, so I always welcome constructive feedback and suggestions. Feel free to reach out to me on any platform above, and let's connect!
+---
+
+## 🚀 Impact & Production Milestones
+
+- **Zero-Downtime Migration:** Architected and executed the migration of 5 production AWS DocumentDB clusters to MongoDB Atlas with zero data loss.
+- **Enterprise Security:** Automated TDE deployment and credential rotation pipelines across 250+ instances using HashiCorp Vault.
+- **Performance Engineering:** Established database benchmarking standards using HammerDB (TPC-C) to guide executive-level platform decisions.
+- **Observability at Scale:** Deployed Percona PMM across 150+ servers to enable proactive slow query analysis and resource utilization tracking.
+
+---
+
+## 🛰️ Currently Exploring (Road to DBRE)
+* **Infrastructure as Code:** Terraform for automated database provisioning.
+* **Orchestration:** Kubernetes (EKS) for containerized database workloads.
+* **Advanced Reliability:** Chaos Engineering for database failover testing.
+
+---
+
+## 📈 GitHub Stats
+![Madan's GitHub stats](https://github-readme-stats.vercel.app/api?username=madanul35&show_icons=true&theme=transparent)
