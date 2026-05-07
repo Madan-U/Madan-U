@@ -44,6 +44,3 @@ My focus is on building self-healing database infrastructure, optimizing cloud s
 * **Advanced Reliability:** Chaos Engineering for database failover testing.
 
 ---
-
-## 📈 GitHub Stats
-![Madan's GitHub stats](https://github-readme-stats.vercel.app/api?username=madanul35&show_icons=true&theme=transparent)
