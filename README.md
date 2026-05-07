@@ -23,7 +23,7 @@ My focus is on building self-healing database infrastructure, optimizing cloud s
 | :--- | :--- |
 | **Cloud Databases** | AWS DocumentDB, MongoDB Atlas, Aurora PostgreSQL, Azure SQL |
 | **Relational & NoSQL** | SQL Server (Always On, Log Shipping), PostgreSQL (Patroni), MongoDB |
-| **Infrastructure & Automation** | Python, Bash, PowerShell, T-SQL, Git/GitHub, HashiCorp Vault |
+| **Infrastructure & Automation** | Python, Bash, T-SQL, Git/GitHub |
 | **Observability** | Percona PMM, Grafana, AWS CloudWatch, Performance Insights, SolarWinds |
 | **Migration & Reliability** | AWS DMS, HammerDB (Benchmarking), TDE, SSL Management, DR Drills |
 
