@@ -18,7 +18,6 @@ I am a **Cloud Database Administrator** specializing in the management of high-f
 | **Environments** | On-premises datacenters and cloud (AWS, Azure, MongoDB Atlas) |
 | **Estate worked on** | 250+ SQL Server instances, 130+ PostgreSQL servers, 35+ MongoDB / DocumentDB clusters |
 
----
 
 ## What I Work On
 
@@ -41,20 +40,3 @@ I am a **Cloud Database Administrator** specializing in the management of high-f
 | **Web & Dev** | HTML, CSS, JavaScript, BootStrap, Python, Flask, Django |
 | **Migration & Reliability** | AWS DMS & Azure DMS |
 
----
-
-## 🚀 Impact & Production Milestones
-
-- **Zero-Downtime Migration:** Architected and executed the migration of 5 production AWS DocumentDB clusters to MongoDB Atlas with zero data loss.
-- **Enterprise Security:** Automated TDE deployment and credential rotation pipelines across 250+ instances using HashiCorp Vault.
-- **Performance Engineering:** Established database benchmarking standards using HammerDB (TPC-C) to guide executive-level platform decisions.
-- **Observability at Scale:** Deployed Percona PMM across 150+ servers to enable proactive slow query analysis and resource utilization tracking.
-
----
-
-## 🛰️ Currently Exploring (Road to DBRE)
-* **Infrastructure as Code:** Terraform for automated database provisioning.
-* **Orchestration:** Kubernetes (EKS) for containerized database workloads.
-* **Advanced Reliability:** Chaos Engineering for database failover testing.
-
----
