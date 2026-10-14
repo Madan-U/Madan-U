@@ -16,7 +16,7 @@ I am a **Cloud Database Administrator** specializing in the management of high-f
 | **Relational (RDBMS)** | Microsoft SQL Server (Always On, Log Shipping, TDE), PostgreSQL (Patroni), Azure SQL, AWS RDS.|
 | **NoSQL** | MongoDB (Replication, Sharding), MongoDB Atlas, AWS DocumentDB |
 | **Environments** | On-premises datacenters and cloud (AWS, Azure, MongoDB Atlas) |
-| **Estate worked on** | 250+ SQL Server instances, 130+ PostgreSQL servers, 35+ MongoDB / DocumentDB clusters |
+| **Estate worked on** | 250+ SQL Server instances, 130+ PostgreSQL servers, 35+ MongoDB & DocumentDB clusters |
 
 
 ## What I Work On
