@@ -1,5 +1,4 @@
 # Madan U | Cloud Database & Reliability Engineer
-### Optimizing Performance, Reliability, and Cost at Scale ☁️🗄️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/madan-u-3bb24627b)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:madanul35@gmail.com)
@@ -13,7 +12,7 @@ My focus is on building self-healing database infrastructure, optimizing cloud s
 
 - 📈 **Scale:** Managed 250+ SQL Server, 130+ PostgreSQL, and 35+ MongoDB/DocumentDB clusters.
 - 💰 **Cost Leadership:** Delivered **50% savings** on MongoDB Atlas and **30%+** on AWS DocumentDB through performance engineering.
-- ⚡ **Automation:** Reduced manual DBA toil from weeks to hours via Python and Bash-driven CI/CD pipelines.
+- ⚡ **Automation:** Reduced manual DBA tasks from weeks to hours via Python, Powershell, Bash-driven and DevOps Techs.
 
 ---
 
@@ -21,10 +20,10 @@ My focus is on building self-healing database infrastructure, optimizing cloud s
 
 | Category | Technologies |
 | :--- | :--- |
-| **Cloud Databases** | AWS DocumentDB, MongoDB Atlas, Aurora PostgreSQL, Azure SQL |
-| **Relational & NoSQL** | SQL Server (Always On, Log Shipping), PostgreSQL (Patroni), MongoDB |
-| **Infrastructure & Automation** | Python, Bash, T-SQL, Git/GitHub |
-| **Observability** | Percona PMM, Grafana, AWS CloudWatch, Performance Insights, SolarWinds |
+| **Cloud Databases** | AWS DocumentDB, MongoDB Atlas, Aurora, PostgreSQL, Azure SQL, Microsoft SQL Server, AWS RDS |
+| **Relational & NoSQL** | SQL Server (Always On, Log Shipping), PostgreSQL (Patroni), MongoDB (Sharding, Replication), Cloud DB (Multi AZs) |
+| **Infrastructure & Automation** | Python, Bash, T-SQL, Powershell, DevOps Tools |
+| **Observability** | Percona PMM, Grafana, AWS CloudWatch, Performance Insights, SolarWinds, Zabbix |
 | **Migration & Reliability** | AWS DMS, HammerDB (Benchmarking), TDE, SSL Management, DR Drills |
 
 ---
